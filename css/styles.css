@@ -1,0 +1,20 @@
+.jumbotron 
+{
+   /* background-image: url('../images/emp_medium.jpg');*/
+    background-color: #ffffff;
+    background-attachment: fixed;
+    min-height: 400px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    
+  h1{
+  font-family: 'open sans', sans-serif;
+}
+
+p{
+  font-family: 'Inconsolata', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+}
+    
+}
